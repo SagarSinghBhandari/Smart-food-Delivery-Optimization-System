@@ -1,0 +1,23 @@
+My friend sp role experience -->
+
+Interview Experience
+
+Duration: ~1 hr 30 min (45 min coding round + interview)
+
+Coding Round (45 min): We had to solve one question completely (all test cases must pass). I was given a choice between Dynamic Programming and Graphs.
+
+I choosed dp question.
+
+Problem Statement – Regular Bracket Sequence with Subsequence: You are given an integer N and a string S of size M consisting only of '(' and ')'. A regular bracket sequence is one in which every opening bracket '(' is closed by a closing bracket ')' and the brackets are closed in the correct order. Find the total number of regular bracket sequences of length N that contain S as a subsequence, and return the answer modulo 10⁹ + 7.
+
+Interview Round: The interviewer asked me to solve the following coding problem:
+
+Problem Statement – Beautiful Number: Given a positive integer, repeatedly replace the number by the sum of the squares of its digits. If this process eventually results in 1, the number is called Beautiful. If it enters a cycle that does not include 1, the number is called Ugly. Determine whether the given number is Beautiful or Ugly.
+
+Other Questions Asked:
+
+Core Java concepts
+
+OOPs concepts
+
+DBMS concepts
